@@ -7,5 +7,5 @@ Our team came in at 2nd position with a score of 0.87704. First position was at 
 
 Competition was hosted on kaggle.
 
-[Link] to the competition:(https://www.kaggle.com/c/devday21-data-science-competition/) 
+[Link to the competition](https://www.kaggle.com/c/devday21-data-science-competition/) 
 
