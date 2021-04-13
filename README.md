@@ -9,3 +9,8 @@ Competition was hosted on kaggle.
 
 [Link to the competition](https://www.kaggle.com/c/devday21-data-science-competition/) 
 
+----
+
+Team members:
+[Sajid Ali](https://www.kaggle.com/ashrrr)
+[Uzair Mughal](https://www.kaggle.com/uzairmughal)
